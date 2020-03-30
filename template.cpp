@@ -1,3 +1,2 @@
 #include <iostream>
-using std::cin;
-using std::cout;
+using namespace std;
